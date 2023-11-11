@@ -13,5 +13,6 @@
 |Emre Can Ayar | [github](https://github.com/emrecanayar), [web sitesi](https://emrecanayar.com/) |
 |Gökhan Gökalp | [github](https://github.com/GokGokalp), [web sitesi](http://www.gokhan-gokalp.com/) |
 |Tarik Guney | [github](https://github.com/tarikguney), [medium](https://atarikguney.medium.com/), [youtube](https://www.youtube.com/@TarikGuney/) |
+|Soner Gönül | [youtube](https://www.youtube.com/@SonerGonul) |
 
 Listemize katıkıda bulunmakta çekinmeyin :)

@@ -15,4 +15,5 @@
 |Tarik Guney | [github](https://github.com/tarikguney), [medium](https://atarikguney.medium.com/), [youtube](https://www.youtube.com/@TarikGuney/) |
 |Soner Gönül | [youtube](https://www.youtube.com/@SonerGonul) |
 |Yiğit Özbek | [medium](https://medium.com/@yigitozbek), [youtube](https://www.youtube.com/@yigitozbek) |
+
 Listemize katıkıda bulunmakta çekinmeyin :)

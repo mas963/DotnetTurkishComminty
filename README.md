@@ -31,5 +31,6 @@
 |Alex's Dev Den | [youtube](https://www.youtube.com/@alexdevden/) |
 |IAmTimCorey | [youtube](https://www.youtube.com/@IAmTimCorey) |
 |Shiv Kumar | [youtube](https://www.youtube.com/@Matlus) |
+|Les Jackson | [youtube](https://www.youtube.com/@binarythistle) |
 
 Listemize katıkıda bulunmakta çekinmeyin :)

@@ -1,5 +1,5 @@
 # DotnetTurkishComminty
-**Türkçe olarak dotnet konusunda yayın yapanların listesi**
+**Türkçe olarak dotnet alanında yayın yapanların listesi**
 
 |Kişi |Bağlantılar |
 |--|--|
